@@ -1,0 +1,53 @@
+.portfolio img {
+  height: auto;
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo-panel p, .navbar li {
+	text-align: left;
+	font-size: 1.2em;
+}
+
+.logo-panel li {
+	margin: 10px 0;
+	font-size: 1.2em;
+}
+
+.portfolio h3, .portfolio p {
+	text-align: center;
+}
+
+.navbar {
+	margin-bottom: 0px;
+    border: none;
+    background-color: #EEF4F2;
+}
+
+.portfolio {
+    padding: 20px;
+    margin-bottom: 0px;
+    color: inherit;
+}
+
+.logo-panel {
+	background-color: #BDD3DE;
+}
+
+#logo-main {
+	background-color: #D2EBF7;
+	padding: 30px;
+	text-align: center;
+}
+
+#logo-img {
+	width: 25%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro {
+	background-color: #FFB03B
+}
